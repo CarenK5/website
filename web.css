@@ -52,7 +52,7 @@ nav .menu{
     color: black;
 }
 .img{
-    background:url(images/6JE4-unsplash.jpg) no-repeat;
+    background:url(https://aphelionstorage.blob.core.windows.net/$web/images/6JE4-unsplash.jpg) no-repeat;
     width: 100%;
     height: 100vh;
     background-size: cover;
